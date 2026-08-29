@@ -36,7 +36,7 @@
 <p align="center">
   <br/><br/>
   <img src='https://count.getloli.com/@gerdaroot?name=gerdaroot&theme=booru-lewd&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=0' width="400px">
-  <img src="https://github-readme-stats.vercel.app/api?username=gerdaroot&show_icons=true&theme=highcontrast&hide_border=true" width="400px"/>
+  <img src="https://github-readme-stats-pearl-delta-52.vercel.app/api?username=gerdaroot&show_icons=true&theme=highcontrast&hide_border=true" width="400px"/>
   <img height="170" src="https://streak-stats.demolab.com?user=gerdaroot&count_private=true&theme=midnight-purple&hide_border=true" width="400px"/>
   <img width="400px" src="https://github-readme-stats-pearl-delta-52.vercel.app/api/top-langs/?username=gerdaroot&layout=compact&theme=highcontrast&hide_border=true" />
 </p>
